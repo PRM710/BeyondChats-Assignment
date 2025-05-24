@@ -77,6 +77,8 @@ Please let me know once you are done checking the project so I can **safely remo
 
 DEPLOYED LINK: https://beyond-chats-assignment-yi67.vercel.app/
 
+Project practical video : https://drive.google.com/file/d/16lEwwlHKjhma4FfJPvlN8VLL2-EFD76Y/view?usp=drive_link
+
 Thank you for your time and consideration! 🙏
 
 ---
