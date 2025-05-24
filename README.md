@@ -3,6 +3,10 @@
 
 Welcome to **BeyondChats**, my submission for the Intershala assignment. This is a showcase project built with React to demonstrate AI chatbot integration using OpenAI's GPT model.
 
+🧪 Important Notice:
+For demonstration and testing purposes, both the customer and the support system chats are simulated and fully controlled by me.
+This ensures predictable responses and avoids unexpected API behavior during evaluation.
+
 ⚠️ **Important Note (PLEASE READ)**  
 This project contains a temporary public API key for evaluation purposes **only**. Once you have evaluated the project, kindly notify me at 📧 **prakashprm710@gmail.com** so that I can **dispose of the key** immediately.
 
